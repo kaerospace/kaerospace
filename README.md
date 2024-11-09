@@ -3,8 +3,8 @@ Physics Student, sometimes programmer<br>
 Mostly C#/C++, some Java/Python
 
 # ✍️ Currently working on
-C++/Vulkan-based space engine
-Minecraft Fabric Tech Mod
+- C++/Vulkan-based space engine
+- Minecraft Fabric Tech Mod
 
 <img src="https://i.imgur.com/bl3Opb8.png" width="48" height="48">
 
