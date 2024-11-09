@@ -6,7 +6,7 @@
 - C++/Vulkan-based space engine
 - Minecraft Fabric Tech Mod
 
-<img src="https://i.imgur.com/bl3Opb8.png" width="48" height="48">${\textsf{\color{lightblue}Essex\space :3}}$
+<img src="https://i.imgur.com/bl3Opb8.png" width="48" height="48">${\textsf{\color{lightblue}Essex :3}}$
 
 <!--
 **kaerospace/kaerospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
