@@ -6,7 +6,7 @@
 - C++/Vulkan-based space engine
 - Minecraft Fabric Tech Mod
 
-<img src="https://i.imgur.com/bl3Opb8.png" width="48" height="48"> *essex best girl :3*
+<img src="https://i.imgur.com/bl3Opb8.png" width="48" height="48"> <span style="color:gray">essex best girl :3</span>
 
 <!--
 **kaerospace/kaerospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
