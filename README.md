@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🔭 About me
+Physics Student, sometimes programmer
+Mostly C#/C++, some Java/Python
 
 <!--
 **kaerospace/kaerospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
