@@ -1,5 +1,5 @@
 ## 🔭 About me
-Physics Student, sometimes programmer
+Physics Student, sometimes programmer \n
 Mostly C#/C++, some Java/Python
 
 <!--
