@@ -1,6 +1,12 @@
-## 🔭 About me
-Physics Student, sometimes programmer \n
+# 🔭 About me
+Physics Student, sometimes programmer<br>
 Mostly C#/C++, some Java/Python
+
+# ✍️ Currently working on
+C++/Vulkan-based space engine
+Minecraft Fabric Tech Mod
+
+<img src="https://i.imgur.com/bl3Opb8.png" width="256" height="256">
 
 <!--
 **kaerospace/kaerospace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
